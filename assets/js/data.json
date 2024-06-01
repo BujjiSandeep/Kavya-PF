@@ -1,0 +1,64 @@
+{
+    "projects": [
+        {
+            "name": "Youtube Analysis - AWS",
+            "desc": "Youtube Analysis: securely manages, streamlines, and performs analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics",
+            "image": "Youtube",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/Youtube-analysis-AWS",
+                "code": "https://github.com/pradhatrivemula/Youtube-analysis-AWS"
+            }
+        },
+        {
+            "name": "Event Finder",
+            "desc": "Our event finder app helps users to find events happening in their area or in a specific location of interest. These events include concerts, festivals, sports games and more.",
+            "image": "Event",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/EventFinder",
+                "code": "https://github.com/pradhatrivemula/EventFinder"
+            }
+        },
+        {
+            "name": "Reddit Data Pipeline",
+            "desc": "This project provides a comprehensive data pipeline solution to extract, transform, and load (ETL) Reddit data into a Redshift data warehouse.",
+            "image": "reddit",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/RedditDataPipeline",
+                "code": "https://github.com/pradhatrivemula/RedditDataPipeline"
+            }
+        },
+        {
+            "name": "Diabetic Retinopathy Detection",
+            "desc": "This project utilizes Apache Spark, hosted on an AWS distributed Hadoop cluster, to detect diabetic retinopathy in eye images.",
+            "image": "Diabetic",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/DetectionOfDiabeticRetinopathyUsingBigData",
+                "code": "https://github.com/pradhatrivemula/DetectionOfDiabeticRetinopathyUsingBigData"
+            }
+        },
+        {
+            "name": "Therapeutic Music Player",
+            "desc": "This project integrates facial emotion recognition with a music player to create an emotion-aware music experience.",
+            "image": "Therapeutic",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/TherapeuticMusicPlayer",
+                "code": "https://github.com/pradhatrivemula/TherapeuticMusicPlayer"
+            }
+        },
+        {
+            "name": "Cloud Service Access Management System",
+            "desc": "A management system built with FastAPI and SQLAlchemy, designed to handle user subscriptions, permissions, and API usage tracking.",
+            "image": "Cloud",
+            "category": "visual",
+            "links": {
+                "view": "https://github.com/pradhatrivemula/Cloud-Service-Access-Management-System",
+                "code": "https://github.com/pradhatrivemula/Cloud-Service-Access-Management-System"
+            }
+        }
+    ]
+}
